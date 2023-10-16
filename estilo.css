@@ -154,11 +154,11 @@ html{
     width: 30%;
 }
 .sobremi .contenido-seccion .fila .col i{
-    color: #940253;
+    color: #0D324D;
     display: inline-block;
     width: 40px;
     height: 40px;
-    border: 2px solid #940253;
+    border: 2px solid #0D324D;
     line-height: 40px;
     border-radius: 50%;
 }
@@ -202,7 +202,7 @@ html{
 }
 .habilidades .contenido-seccion .barra{
     display: flex;
-    border: 1px solid #940253;
+    border: 1px solid #0D324D;
     padding: 2px;
     border-radius: 3px;
     margin-right: 10px;
@@ -239,9 +239,9 @@ html{
 }
 .resumen .contenido-seccion .info .col .titulo{
     display: inline-block;
-    color: #940253;
+    color: #0D324D;
     font-weight: bold;
-    border: 2px solid #940253;
+    border: 2px solid #0D324D;
     padding: 10px;
 
 }
@@ -297,7 +297,7 @@ html{
     margin-top: 50px;
 }
 .contacto .contenido-seccion .fila .col h2{
-    color: #940253;
+    color: #0D324D;
 }
 /* SECCION RESPONSIVE */
 @media screen and (max-width:800px){
