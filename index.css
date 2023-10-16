@@ -10,14 +10,14 @@ body{
     background: #D9DBF1;
 }
 
-.name.content{
+.name .content{
     width: 50%;
     height: 50%;
     position: absolute;
     left: 25%;
 }
-.name.content.p1{
-    color: #E8D6CB;
+.name .content.p1{
+    color: white;
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     font-size: 80px;
